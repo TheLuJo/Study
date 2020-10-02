@@ -1,4 +1,4 @@
 # Study
- My projects of study of programming
+My projects of study of *programming*
 
-By: The LuJo
+By: **The LuJo**
